@@ -1,16 +1,20 @@
-### Hi there 👋
+###Hi there!
+I'm a full-stack web developer from Ukraine.
 
-<!--
-**shatynska/shatynska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to create designs and work on front-end tasks. However, my core interest is in the backend: developing clear basic logic, suitable architecture, and solving different problems.
 
-Here are some ideas to get you started:
+###Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript, TypeScript, PHP
+
+Node.js, NestJS, Express.js, Next.js, React, Laravel
+
+PostgreSQL, MySQL, SQLite, Prisma, Drizzle
+
+Vitest, Jest, Swagger, Zod
+
+HTML, CSS, Tailwind, Shadcn/ui
+
+Git, GitHub Actions, CI/CD, Docker, Portainer, Linux, VPS
+
+UI/UX Design, Figma
