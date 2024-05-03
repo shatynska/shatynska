@@ -7,8 +7,8 @@ I like to create designs and work on front-end tasks. However, my core interest 
 
 JavaScript, TypeScript, PHP  
 Node.js, NestJS, Express.js, Next.js, React, Laravel  
-PostgreSQL, MySQL, SQLite, Prisma, Drizzle  
-Vitest, Jest, Swagger, Zod  
+PostgreSQL, MySQL, SQLite, Redis, Prisma, Drizzle  
+Vitest, Jest, Storybook, Swagger, Zod  
 HTML, CSS, Tailwind, Shadcn/ui  
 Git, GitHub Actions, CI/CD, Docker, Portainer, Linux, VPS  
 UI/UX Design, Figma
